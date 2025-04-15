@@ -1,0 +1,17 @@
+# Name of the addon
+name = "FTBRanks Discord Integration"
+
+# Version of the addon
+version = "1.0.0"
+
+# Path to the main class of the addon
+classPath = "com.peendev.ftbranks.FTBRanksAddon"
+
+# Author of the Addon
+author = "PeenDev"
+
+# Description of the Addon
+description = "Discord Integration addon for FTBRanks, providing rank change notifications and commands."
+
+# Required parameter to specify if the addon is compatible with this API version
+APIVersion = 3 
